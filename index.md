@@ -47,7 +47,8 @@ Meet the team:
 
  * Kenneth Ng. Coder and mobile web guy.
 
- * Joseph Victor. Stanford University. Coder and algorithms guy.
+ * Joseph Victor. Currently attending Stanford University for a MS in Data Science.  
+   Coder and enthusiest for math, programming and healthy nammy vegegarian food.    
 
  * Samer Buna. Coder and data wrangler.
 
