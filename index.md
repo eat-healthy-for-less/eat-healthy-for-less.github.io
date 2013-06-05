@@ -55,7 +55,7 @@ Meet the team:
  * Nandita Garud. Genetics PhD student at Stanford
    University. Statistician and design thinker.
 
- * Chuang Wang. Coder.
+ * Chuang Wang. Software Engineer at Symantec specialized in information confidentiality and privacy protection.
 
 We'd like to thank the Google Hack for Change organizers for putting on
 a great event!
