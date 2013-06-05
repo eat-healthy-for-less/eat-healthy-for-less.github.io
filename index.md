@@ -36,8 +36,7 @@ Meet the team:
    Less really just turns what my Mom taught me about grocery shopping
    into an app to help others learn the same techniques."
 
- * Jason Mow. Student at University of Pennsylvania. Front end,
-   integration, and demo lead.
+ * Jason Mow. Student at University of Pennsylvania, Android intern at Upthere. Front end, integration, and demo lead. Will never buy too much or too little at the grocery store again.
 
  * Sid Askary. Coder, data wrangler, and outreach.
 
