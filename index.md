@@ -28,7 +28,7 @@ just 48 hours after our team got together. The concept of the app shines
 through, even though it was a rush job and there were some problems with
 our food price database.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/gerYM-CydPc" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/8WcR2nYKgfo" frameborder="0" allowfullscreen></iframe>
 
 ### Why this app is so important
 
