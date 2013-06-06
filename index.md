@@ -21,9 +21,18 @@ then zip you straight to a week's worth of dinner recipes and a shopping
 list with the groceries you need to make them. Ready to shop in 60
 seconds!
 
+### Prototype Demo
+
+This video shows the app prototype we demoed at Google Hack for Change
+just 48 hours after our team got together. The concept of the app shines
+through, even though it was a rush job and there were some problems with
+our food price database.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/gerYM-CydPc" frameborder="0" allowfullscreen></iframe>
+
 ### About Us
 
-![The Eating Healthy for Less hackathon team](team_photo_600.jpg)
+![Google Hack for Change Winners](award.jpg)
 
 The Eat Healthy for Less project was just a crazy idea on the morning of
 Saturday June 1, but a pickup team of developers at the Google Hack for
@@ -46,8 +55,9 @@ Meet the team:
 
  * Kenneth Ng. Coder and mobile web guy.
 
- * Joseph Victor. Currently attending Stanford University for a MS in Data Science.  
-   Coder and enthusiest for math, programming and healthy nammy vegegarian food.    
+ * Joseph Victor. Currently attending Stanford University for a MS in
+   Data Science.  Coder and enthusiest for math, programming and healthy
+   nammy vegegarian food.
 
  * Samer Buna. Coder and data wrangler.
 
