@@ -21,7 +21,7 @@ then zip you straight to a week's worth of dinner recipes and a shopping
 list with the groceries you need to make them. Ready to shop in 60
 seconds!
 
-### Prototype Demo
+### Prototype demo
 
 This video shows the app prototype we demoed at Google Hack for Change
 just 48 hours after our team got together. The concept of the app shines
@@ -30,7 +30,16 @@ our food price database.
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/gerYM-CydPc" frameborder="0" allowfullscreen></iframe>
 
-### About Us
+### Why this app is so important
+
+Here's the presentation that accompanied our demo. We think our app
+could have a big impact on a lot of people who *want* to eat healthy but
+aren't sure where to start. So many times, the reaction when we tell a
+friend about the app is that they want to use it right away.
+
+<a href="http://j.mp/ehfl_pres" target="new_tab"><img src="pres_thumbnail.png"/></a>
+
+### About us
 
 ![Google Hack for Change Winners](award.jpg)
 
